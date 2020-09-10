@@ -1,6 +1,4 @@
-- Download repository files.
-- Select a folder with a project in the console.
-- npm run build
+- Download repository files
 - npm run start
 - Wait for the project to open in the browser
 - Use
