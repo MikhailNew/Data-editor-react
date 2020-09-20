@@ -1,5 +1,5 @@
 - Download repository files
-- "npm run install" to install dependencies
+- "npm install" to install dependencies
 - "npm run start" to start local server
 - Wait for the project to open in the browser
 - Use
